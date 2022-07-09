@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 09. | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [GradingStudents.js](./GradingStudents.js) | 
 | 08. | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [MiniMaxSum.js](./MiniMaxSum.js) | 
 | 07. | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Staircase.js](./Staircase.js) | 
 | 06. | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [PlusMinus.js](./PlusMinus.js) | 
