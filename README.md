@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 10. | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [AppleAndOrange.js](./AppleAndOrange.js) | 
 | 09. | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [GradingStudents.js](./GradingStudents.js) | 
 | 08. | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [MiniMaxSum.js](./MiniMaxSum.js) | 
 | 07. | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Staircase.js](./Staircase.js) | 
