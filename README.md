@@ -1,7 +1,8 @@
-# Algorithms Challenges JavaScript
+# Algorithm Challenges JavaScript
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 17. | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [BillDivision.js](./BillDivision.js) | 
 | 16. | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | [MigratoryBirds.js](./MigratoryBirds.js) | 
 | 15. | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) | [DivisibleSumPairs.js](./DivisibleSumPairs.js) | 
 | 14. | [* Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) | [SubarrayDivision.js](./SubarrayDivision.js) | 
