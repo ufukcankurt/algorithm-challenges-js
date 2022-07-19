@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 18. | [Sales by Match](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [SalesByMatch.js.js](./SalesByMatch.js.js) | 
 | 17. | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [BillDivision.js](./BillDivision.js) | 
 | 16. | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | [MigratoryBirds.js](./MigratoryBirds.js) | 
 | 15. | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) | [DivisibleSumPairs.js](./DivisibleSumPairs.js) | 
