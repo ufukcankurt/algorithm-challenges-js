@@ -2,12 +2,13 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
-| 15. | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [DivisibleSumPairs.js](./DivisibleSumPairs.js) | 
-| 14. | [* Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [SubarrayDivision.js](./SubarrayDivision.js) | 
-| 13. | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [BreakingTheRecords.js](./BreakingTheRecords.js) | 
-| 12. | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [BetweenTwoSets.js](./BetweenTwoSets.js) | 
-| 11. | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [NumberLineJumps.js](./NumberLineJumps.js) | 
-| 10. | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | [AppleAndOrange.js](./AppleAndOrange.js) | 
+| 16. | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true) | [MigratoryBirds.js](./MigratoryBirds.js) | 
+| 15. | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem?isFullScreen=true) | [DivisibleSumPairs.js](./DivisibleSumPairs.js) | 
+| 14. | [* Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem?isFullScreen=true) | [SubarrayDivision.js](./SubarrayDivision.js) | 
+| 13. | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true) | [BreakingTheRecords.js](./BreakingTheRecords.js) | 
+| 12. | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true) | [BetweenTwoSets.js](./BetweenTwoSets.js) | 
+| 11. | [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true) | [NumberLineJumps.js](./NumberLineJumps.js) | 
+| 10. | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange/problem?isFullScreen=true) | [AppleAndOrange.js](./AppleAndOrange.js) | 
 | 09. | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true) | [GradingStudents.js](./GradingStudents.js) | 
 | 08. | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [MiniMaxSum.js](./MiniMaxSum.js) | 
 | 07. | [Staircase](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen) | [Staircase.js](./Staircase.js) | 
