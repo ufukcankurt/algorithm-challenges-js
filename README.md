@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 20. | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | [ElectronicsShop.js](./ElectronicsShop.js) | 
 | 19. | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true) | [DrawingBook.js](./DrawingBook.js) | 
 | 18. | [Sales by Match](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [SalesByMatch.js](./SalesByMatch.js) | 
 | 17. | [Bill Division](https://www.hackerrank.com/challenges/bon-appetit/problem?isFullScreen=true) | [BillDivision.js](./BillDivision.js) | 
