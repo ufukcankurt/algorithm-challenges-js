@@ -10,6 +10,6 @@ function sockMerchant(n, ar) {
         }
     }
 
-    return countF
+    return count
 
 }
