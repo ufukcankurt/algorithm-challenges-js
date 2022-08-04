@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 25. | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | [AngryProfessor.js](./AngryProfessor.js) | 
 | 24. | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) | [UtopianTree.js](./UtopianTree.js) | 
 | 23. | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | [DesignerPDFViewer.js](./DesignerPDFViewer.js) | 
 | 22. | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) | [TheHurdleRace.js](./TheHurdleRace.js) | 
