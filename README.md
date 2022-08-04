@@ -2,7 +2,8 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
-| 21. | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) | [TheHurdleRace.js](./TheHurdleRace.js) | 
+| 23. | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer/problem?isFullScreen=true) | [DesignerPDFViewer.js](./DesignerPDFViewer.js) | 
+| 22. | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true) | [TheHurdleRace.js](./TheHurdleRace.js) | 
 | 21. | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true) | [CatsAndAMouse.js](./CatsAndAMouse.js) | 
 | 20. | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true) | [ElectronicsShop.js](./ElectronicsShop.js) | 
 | 19. | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book/problem?isFullScreen=true) | [DrawingBook.js](./DrawingBook.js) | 
