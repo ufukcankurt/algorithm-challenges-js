@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 30. | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true) | [SequenceEquation.js](./SequenceEquation.js) | 
 | 29. | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true) | [CircularArrayRotation.js](./CircularArrayRotation.js) | 
 | 28. | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) | [SaveThePrisoner.js](./SaveThePrisoner.js) | 
 | 27. | [Viral Advertising](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [ViralAdvertising.js](./ViralAdvertising.js) | 
