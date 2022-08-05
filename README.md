@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 31. | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true) | [JumpingOnTheCloudsRevisited.js](./JumpingOnTheCloudsRevisited.js) | 
 | 30. | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true) | [SequenceEquation.js](./SequenceEquation.js) | 
 | 29. | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem?isFullScreen=true) | [CircularArrayRotation.js](./CircularArrayRotation.js) | 
 | 28. | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) | [SaveThePrisoner.js](./SaveThePrisoner.js) | 
