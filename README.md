@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 28. | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner/problem?isFullScreen=true) | [SaveThePrisoner.js](./SaveThePrisoner.js) | 
 | 27. | [Viral Advertising](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [ViralAdvertising.js](./ViralAdvertising.js) | 
 | 26. | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [BeautifulDaysAtTheMovies.js](./BeautifulDaysAtTheMovies.js) | 
 | 25. | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | [AngryProfessor.js](./AngryProfessor.js) | 
