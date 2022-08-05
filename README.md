@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 27. | [Viral Advertising](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [ViralAdvertising.js](./ViralAdvertising.js) | 
 | 26. | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true) | [BeautifulDaysAtTheMovies.js](./BeautifulDaysAtTheMovies.js) | 
 | 25. | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true) | [AngryProfessor.js](./AngryProfessor.js) | 
 | 24. | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true) | [UtopianTree.js](./UtopianTree.js) | 
