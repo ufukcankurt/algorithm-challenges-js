@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 33. | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true) | [ExtraLongFactorials.js](./ExtraLongFactorials.js) | 
 | 32. | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true) | [FindDigits.js](./FindDigits.js) | 
 | 31. | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?isFullScreen=true) | [JumpingOnTheCloudsRevisited.js](./JumpingOnTheCloudsRevisited.js) | 
 | 30. | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation/problem?isFullScreen=true) | [SequenceEquation.js](./SequenceEquation.js) | 
