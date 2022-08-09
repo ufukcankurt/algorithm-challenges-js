@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 35. | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true) | [LibraryFine.js](./LibraryFine.js) | 
 | 34. | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true) | [SherlockAndSquares.js](./SherlockAndSquares.js) | 
 | 33. | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true) | [ExtraLongFactorials.js](./ExtraLongFactorials.js) | 
 | 32. | [Find Digits](https://www.hackerrank.com/challenges/find-digits/problem?isFullScreen=true) | [FindDigits.js](./FindDigits.js) | 
