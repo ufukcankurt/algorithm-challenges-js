@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 36. | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) | [CutTheSticks.js](./CutTheSticks.js) | 
 | 35. | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true) | [LibraryFine.js](./LibraryFine.js) | 
 | 34. | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares/problem?isFullScreen=true) | [SherlockAndSquares.js](./SherlockAndSquares.js) | 
 | 33. | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials/problem?isFullScreen=true) | [ExtraLongFactorials.js](./ExtraLongFactorials.js) | 
