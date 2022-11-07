@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 38. | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true) | [SuperReducedString.js](./SuperReducedString.js) | 
 | 37. | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true) | [JumpingOnTheClouds.js](./JumpingOnTheClouds.js) | 
 | 36. | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true) | [CutTheSticks.js](./CutTheSticks.js) | 
 | 35. | [Library Fine](https://www.hackerrank.com/challenges/library-fine/problem?isFullScreen=true) | [LibraryFine.js](./LibraryFine.js) | 
