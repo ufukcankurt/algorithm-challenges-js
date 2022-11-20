@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 40. | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true) | [StrongPassword.js](./StrongPassword.js) | 
 | 39. | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true) | [CamelCase.js](./CamelCase.js) | 
 | 38. | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem?isFullScreen=true) | [SuperReducedString.js](./SuperReducedString.js) | 
 | 37. | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true) | [JumpingOnTheClouds.js](./JumpingOnTheClouds.js) | 
