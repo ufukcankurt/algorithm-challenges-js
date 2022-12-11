@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 42. | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem?isFullScreen=true) | [MarsExploration.js](./MarsExploration.js) | 
 | 41. | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem?isFullScreen=true) | [CaesarCipher.js](./CaesarCipher.js) | 
 | 40. | [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true) | [StrongPassword.js](./StrongPassword.js) | 
 | 39. | [CamelCase](https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true) | [CamelCase.js](./CamelCase.js) | 
