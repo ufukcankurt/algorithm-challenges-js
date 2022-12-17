@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 44. | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true) | [Pangrams.js](./Pangrams.js) | 
 | 43. | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true) | [HackerRankInaString.js](./HackerRankInaString.js) | 
 | 42. | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem?isFullScreen=true) | [MarsExploration.js](./MarsExploration.js) | 
 | 41. | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem?isFullScreen=true) | [CaesarCipher.js](./CaesarCipher.js) | 
