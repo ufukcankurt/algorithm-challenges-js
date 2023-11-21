@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 45. | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true) | [HalloweenSale.js](./HalloweenSale.js) | 
 | 45. | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true) | [MinimumDistances.js](./MinimumDistances.js) | 
 | 44. | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true) | [Pangrams.js](./Pangrams.js) | 
 | 43. | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true) | [HackerRankInaString.js](./HackerRankInaString.js) | 
