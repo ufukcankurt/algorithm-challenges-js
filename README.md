@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 45. | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true) | [MinimumDistances.js](./MinimumDistances.js) | 
 | 44. | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true) | [Pangrams.js](./Pangrams.js) | 
 | 43. | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true) | [HackerRankInaString.js](./HackerRankInaString.js) | 
 | 42. | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem?isFullScreen=true) | [MarsExploration.js](./MarsExploration.js) | 
