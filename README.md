@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 45. | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true) | [TheTimeinWords.js.js](./TheTimeinWords.js.js) | 
 | 45. | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true) | [HalloweenSale.js](./HalloweenSale.js) | 
 | 45. | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true) | [MinimumDistances.js](./MinimumDistances.js) | 
 | 44. | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true) | [Pangrams.js](./Pangrams.js) | 
