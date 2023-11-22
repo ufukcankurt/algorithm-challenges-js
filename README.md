@@ -2,7 +2,8 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
-| 48. | [Chocolate Feast](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true) | [ChocolateFeast.js](./ChocolateFeast.js) | 
+| 49. | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true) | [AVeryBigSum.js](./AVeryBigSum.js) | 
+| 48. | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true) | [ChocolateFeast.js](./ChocolateFeast.js) | 
 | 47. | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true) | [TheTimeinWords.js](./TheTimeinWords.js) | 
 | 46. | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true) | [HalloweenSale.js](./HalloweenSale.js) | 
 | 45. | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true) | [MinimumDistances.js](./MinimumDistances.js) | 
