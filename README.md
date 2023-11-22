@@ -2,8 +2,9 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
-| 45. | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true) | [TheTimeinWords.js.js](./TheTimeinWords.js.js) | 
-| 45. | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true) | [HalloweenSale.js](./HalloweenSale.js) | 
+| 48. | [Chocolate Feast](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true) | [ChocolateFeast.js](./ChocolateFeast.js) | 
+| 47. | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true) | [TheTimeinWords.js](./TheTimeinWords.js) | 
+| 46. | [Halloween Sale](https://www.hackerrank.com/challenges/halloween-sale/problem?isFullScreen=true) | [HalloweenSale.js](./HalloweenSale.js) | 
 | 45. | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances/problem?isFullScreen=true) | [MinimumDistances.js](./MinimumDistances.js) | 
 | 44. | [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem?isFullScreen=true) | [Pangrams.js](./Pangrams.js) | 
 | 43. | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true) | [HackerRankInaString.js](./HackerRankInaString.js) | 
