@@ -2,7 +2,8 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
-| 49. | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [TimeConversion.js](./solutions/TimeConversion.js) | 
+| 51. | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) | [CountingValleys.js](./solutions/CountingValleys.js) | 
+| 50. | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [TimeConversion.js](./solutions/TimeConversion.js) | 
 | 49. | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true) | [AVeryBigSum.js](./solutions/AVeryBigSum.js) | 
 | 48. | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast/problem?isFullScreen=true) | [ChocolateFeast.js](./solutions/ChocolateFeast.js) | 
 | 47. | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words/problem?isFullScreen=true) | [TheTimeinWords.js](./solutions/TheTimeinWords.js) | 
