@@ -2,7 +2,8 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
-| 52. | [react > Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true) | [ItemListManager.js](./solutions/react/ItemListManager.js) 
+| 53. | [react > Slideshow](https://www.hackerrank.com/challenges/react-slideshow-1/problem?isFullScreen=true) | [Slideshow.js](./solutions/react/Slideshow.js)| 
+| 52. | [react > Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true) | [ItemListManager.js](./solutions/react/ItemListManager.js)| 
 |-||-|
 | 51. | [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem?isFullScreen=true) | [CountingValleys.js](./solutions/CountingValleys.js) | 
 | 50. | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true) | [TimeConversion.js](./solutions/TimeConversion.js) | 
