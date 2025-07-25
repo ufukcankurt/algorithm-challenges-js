@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 53. | [react > Word Omitter](https://www.hackerrank.com/challenges/react-word-omitter/problem?isFullScreen=true) | [WordOmitter.js](./solutions/react/WordOmitter.js)| 
 | 53. | [react > Slideshow](https://www.hackerrank.com/challenges/react-slideshow-1/problem?isFullScreen=true) | [Slideshow.js](./solutions/react/Slideshow.js)| 
 | 52. | [react > Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true) | [ItemListManager.js](./solutions/react/ItemListManager.js)| 
 |-||-|
