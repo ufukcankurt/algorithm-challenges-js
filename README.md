@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 58. | [First Reverse](https://cressoft.coderbyte.com/editor/First%20Reverse:TypeScript) | [FirstReverse.ts](./solutions/coderbyte/FirstReverse.ts)| 
 | 57. | [FirstFactorial](https://cressoft.coderbyte.com/editor/First%20Factorial:TypeScript) | [FirstFactorial.ts](./solutions/coderbyte/FirstFactorial.ts)| 
 | 56. | [LongestWord](https://cressoft.coderbyte.com/results/ufukcankurt:Longest%20Word:TypeScript) | [LongestWord.ts](./solutions/coderbyte/LongestWord.ts)| 
 | 55. | [Codeland Username Validation](https://cressoft.coderbyte.com/editor/Codeland%20Username%20Validation:TypeScript) | [CodelandUsernameValidation.ts](./solutions/coderbyte/CodelandUsernameValidation.ts)| 
