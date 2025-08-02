@@ -2,8 +2,9 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
-| 56. | [LongestWord](https://cressoft.coderbyte.com/results/ufukcankurt:Longest%20Word:TypeScript) | [LongestWord.js](./solutions/coderbyte/LongestWord.ts)| 
-| 55. | [Codeland Username Validation](https://cressoft.coderbyte.com/editor/Codeland%20Username%20Validation:TypeScript) | [WordOmitter.js](./solutions/coderbyte/CodelandUsernameValidation.ts)| 
+| 57. | [FirstFactorial](https://cressoft.coderbyte.com/editor/First%20Factorial:TypeScript) | [FirstFactorial.ts](./solutions/coderbyte/FirstFactorial.ts)| 
+| 56. | [LongestWord](https://cressoft.coderbyte.com/results/ufukcankurt:Longest%20Word:TypeScript) | [LongestWord.ts](./solutions/coderbyte/LongestWord.ts)| 
+| 55. | [Codeland Username Validation](https://cressoft.coderbyte.com/editor/Codeland%20Username%20Validation:TypeScript) | [CodelandUsernameValidation.ts](./solutions/coderbyte/CodelandUsernameValidation.ts)| 
 | 54. | [react > Word Omitter](https://www.hackerrank.com/challenges/react-word-omitter/problem?isFullScreen=true) | [WordOmitter.js](./solutions/react/WordOmitter.js)| 
 | 53. | [react > Slideshow](https://www.hackerrank.com/challenges/react-slideshow-1/problem?isFullScreen=true) | [Slideshow.js](./solutions/react/Slideshow.js)| 
 | 52. | [react > Item List Manager](https://www.hackerrank.com/challenges/item-list-manager/problem?isFullScreen=true) | [ItemListManager.js](./solutions/react/ItemListManager.js)| 
