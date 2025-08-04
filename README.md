@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+| 59. | [Find Intersection](https://cressoft.coderbyte.com/editor/Find%20Intersection:TypeScript) | [FindIntersection.ts](./solutions/coderbyte/FindIntersection.ts)| 
 | 58. | [First Reverse](https://cressoft.coderbyte.com/editor/First%20Reverse:TypeScript) | [FirstReverse.ts](./solutions/coderbyte/FirstReverse.ts)| 
 | 57. | [FirstFactorial](https://cressoft.coderbyte.com/editor/First%20Factorial:TypeScript) | [FirstFactorial.ts](./solutions/coderbyte/FirstFactorial.ts)| 
 | 56. | [LongestWord](https://cressoft.coderbyte.com/results/ufukcankurt:Longest%20Word:TypeScript) | [LongestWord.ts](./solutions/coderbyte/LongestWord.ts)| 
