@@ -2,6 +2,8 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|60.|[The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)|[TheTwoSneakyNumbers.ts](./solutions/leetcode/TheTwoSneakyNumbers.ts)|
+|-|-|-|
 | 59. | [Find Intersection](https://cressoft.coderbyte.com/editor/Find%20Intersection:TypeScript) | [FindIntersection.ts](./solutions/coderbyte/FindIntersection.ts)| 
 | 58. | [First Reverse](https://cressoft.coderbyte.com/editor/First%20Reverse:TypeScript) | [FirstReverse.ts](./solutions/coderbyte/FirstReverse.ts)| 
 | 57. | [FirstFactorial](https://cressoft.coderbyte.com/editor/First%20Factorial:TypeScript) | [FirstFactorial.ts](./solutions/coderbyte/FirstFactorial.ts)| 
