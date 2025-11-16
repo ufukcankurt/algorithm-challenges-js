@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|61.|[Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array)|[TwoSum.ts](./solutions/leetcode/TwoSum.ts)|
 |61.|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description)|[CreateHelloWorldFunction.ts](./solutions/leetcode/CreateHelloWorldFunction.ts)|
 |60.|[The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/description/)|[TheTwoSneakyNumbers.ts](./solutions/leetcode/TheTwoSneakyNumbers.ts)|
 |-|-|-|
