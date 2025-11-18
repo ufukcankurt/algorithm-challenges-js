@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|63.|[Remove Elements](https://leetcode.com/problems/remove-element/description/)|[RemoveElement.ts](./solutions/leetcode/RemoveElement.ts)|
 |63.|[Two Sum](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[RemoveDuplicatesfromSortedArray.ts](./solutions/leetcode/RemoveDuplicatesfromSortedArray.ts)|
 |62.|[Two Sum](https://leetcode.com/problems/two-sum/?envType=problem-list-v2&envId=array)|[TwoSum.ts](./solutions/leetcode/TwoSum.ts)|
 |61.|[Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description)|[CreateHelloWorldFunction.ts](./solutions/leetcode/CreateHelloWorldFunction.ts)|
