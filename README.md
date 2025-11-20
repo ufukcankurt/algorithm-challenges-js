@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|66.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description)|[SearchInsertPosition.ts](./solutions/leetcode/SearchInsertPosition.ts)|
 |65.|[Plus One](https://leetcode.com/problems/plus-one/description)|[PlusOne.ts](./solutions/leetcode/PlusOne.ts)|
 |64.|[Remove Elements](https://leetcode.com/problems/remove-element/description/)|[RemoveElement.ts](./solutions/leetcode/RemoveElement.ts)|
 |63.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)|[RemoveDuplicatesfromSortedArray.ts](./solutions/leetcode/RemoveDuplicatesfromSortedArray.ts)|
