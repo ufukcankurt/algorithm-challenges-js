@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|68.|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description)|[ContainsDuplicateII.ts](./solutions/leetcode/ContainsDuplicateII.ts)|
 |67.|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description)|[ContainsDuplicate.ts](./solutions/leetcode/ContainsDuplicate.ts)|
 |66.|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description)|[SearchInsertPosition.ts](./solutions/leetcode/SearchInsertPosition.ts)|
 |65.|[Plus One](https://leetcode.com/problems/plus-one/description)|[PlusOne.ts](./solutions/leetcode/PlusOne.ts)|
