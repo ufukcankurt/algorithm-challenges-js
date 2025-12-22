@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|71.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[MoveZeroes.ts](./solutions/leetcode/MoveZeroes.ts)|
 |70.|[Binary Search](https://leetcode.com/problems/binary-search/description)|[BinarySearch.ts](./solutions/leetcode/BinarySearch.ts)|
 |69.|[Missing Number](https://leetcode.com/problems/contains-duplicate-ii/description)|[MissingNumber.ts](./solutions/leetcode/MissingNumber.ts)|
 |68.|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description)|[ContainsDuplicateII.ts](./solutions/leetcode/ContainsDuplicateII.ts)|
