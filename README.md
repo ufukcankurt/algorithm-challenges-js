@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|73.|[Array Partition](https://leetcode.com/problems/array-partition/description)|[ArrayPartition.ts](./solutions/leetcode/ArrayPartition.ts)|
 |72.|[*Single Number](https://leetcode.com/problems/single-number/description)|[SingleNumber.ts](./solutions/leetcode/SingleNumber.ts)|
 |71.|[Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)|[MoveZeroes.ts](./solutions/leetcode/MoveZeroes.ts)|
 |70.|[Binary Search](https://leetcode.com/problems/binary-search/description)|[BinarySearch.ts](./solutions/leetcode/BinarySearch.ts)|
