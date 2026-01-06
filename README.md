@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|76.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description)|[LongestCommonPrefix.ts](./solutions/leetcode/LongestCommonPrefix.ts)|
 |75.|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description)|[IntersectionOfTwoArraysII.ts](./solutions/leetcode/IntersectionOfTwoArraysII.ts)|
 |74.|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description)|[IntersectionOfTwoArrays.ts](./solutions/leetcode/IntersectionOfTwoArrays.ts)|
 |73.|[Array Partition](https://leetcode.com/problems/array-partition/description)|[ArrayPartition.ts](./solutions/leetcode/ArrayPartition.ts)|
