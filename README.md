@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|77.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description)|[MergeSortedArray.ts](./solutions/leetcode/MergeSortedArray.ts)|
 |76.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description)|[LongestCommonPrefix.ts](./solutions/leetcode/LongestCommonPrefix.ts)|
 |75.|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description)|[IntersectionOfTwoArraysII.ts](./solutions/leetcode/IntersectionOfTwoArraysII.ts)|
 |74.|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description)|[IntersectionOfTwoArrays.ts](./solutions/leetcode/IntersectionOfTwoArrays.ts)|
