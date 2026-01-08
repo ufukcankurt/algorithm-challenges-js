@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|78.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description)|[FlippingAnImage.ts](./solutions/leetcode/FlippingAnImage.ts)|
 |77.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description)|[MergeSortedArray.ts](./solutions/leetcode/MergeSortedArray.ts)|
 |76.|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description)|[LongestCommonPrefix.ts](./solutions/leetcode/LongestCommonPrefix.ts)|
 |75.|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description)|[IntersectionOfTwoArraysII.ts](./solutions/leetcode/IntersectionOfTwoArraysII.ts)|
