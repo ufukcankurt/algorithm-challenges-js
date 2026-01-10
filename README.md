@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|80.|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description)|[ThirdMaximumNumber.ts](./solutions/leetcode/ThirdMaximumNumber.ts)|
 |79.|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description)|[SummaryRanges.ts](./solutions/leetcode/SummaryRanges.ts)|
 |78.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description)|[FlippingAnImage.ts](./solutions/leetcode/FlippingAnImage.ts)|
 |77.|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description)|[MergeSortedArray.ts](./solutions/leetcode/MergeSortedArray.ts)|
