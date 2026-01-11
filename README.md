@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|81.|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)|[FindAllNumbersDisappearedInAnArray.ts](./solutions/leetcode/FindAllNumbersDisappearedInAnArray.ts)|
 |80.|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description)|[ThirdMaximumNumber.ts](./solutions/leetcode/ThirdMaximumNumber.ts)|
 |79.|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description)|[SummaryRanges.ts](./solutions/leetcode/SummaryRanges.ts)|
 |78.|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description)|[FlippingAnImage.ts](./solutions/leetcode/FlippingAnImage.ts)|
