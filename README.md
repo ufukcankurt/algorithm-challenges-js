@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|84.|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description)|[SetMismatch.ts](./solutions/leetcode/SetMismatch.ts)|
 |83.|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description)|[RelativeRanks.ts](./solutions/leetcode/RelativeRanks.ts)|
 |82.|[Majority Element](https://leetcode.com/problems/majority-element/description)|[MajorityElement.ts](./solutions/leetcode/MajorityElement.ts)|
 |81.|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description)|[FindAllNumbersDisappearedInAnArray.ts](./solutions/leetcode/FindAllNumbersDisappearedInAnArray.ts)|
