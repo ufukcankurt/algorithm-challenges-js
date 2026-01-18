@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|85.|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description)|[LemonadeChange.ts](./solutions/leetcode/LemonadeChange.ts)|
 |84.|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description)|[SetMismatch.ts](./solutions/leetcode/SetMismatch.ts)|
 |83.|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description)|[RelativeRanks.ts](./solutions/leetcode/RelativeRanks.ts)|
 |82.|[Majority Element](https://leetcode.com/problems/majority-element/description)|[MajorityElement.ts](./solutions/leetcode/MajorityElement.ts)|
