@@ -2,6 +2,7 @@
 
 | # | Challenge |  	Solution | 
 |:-:|:--------|:--------:|
+|86.|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/description)|[SortArrayByParity.ts](./solutions/leetcode/SortArrayByParity.ts)|
 |85.|[Lemonade Change](https://leetcode.com/problems/lemonade-change/description)|[LemonadeChange.ts](./solutions/leetcode/LemonadeChange.ts)|
 |84.|[Set Mismatch](https://leetcode.com/problems/set-mismatch/description)|[SetMismatch.ts](./solutions/leetcode/SetMismatch.ts)|
 |83.|[Relative Ranks](https://leetcode.com/problems/relative-ranks/description)|[RelativeRanks.ts](./solutions/leetcode/RelativeRanks.ts)|
